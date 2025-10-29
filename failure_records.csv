@@ -1,0 +1,11 @@
+failure_start,failure_end,inverter_id,cause,resolution,downtime_hours,repair_cost_usd,revenue_loss_usd,mttr_hours,severity
+2023-01-27,2023-01-28 00:00:00,INV_002,fan_failure,fan_replacement,24,371,2400,24,medium
+2023-03-30,2023-04-03 13:00:00,INV_003,control_board_failure,board_replacement,109,2295,10682,109,high
+2023-03-30,2023-04-02 11:00:00,INV_004,control_board_failure,board_replacement,83,2757,8964,83,high
+2023-03-04,2023-03-05 12:00:00,INV_005,control_board_failure,board_replacement,36,2373,5256,36,medium
+2023-03-20,2023-03-21 00:00:00,INV_006,overheating,fan_replacement,24,346,2976,24,medium
+2023-01-16,2023-01-16 15:00:00,INV_009,overheating,fan_replacement,15,757,1245,15,medium
+2023-03-24,2023-03-25 07:00:00,INV_011,capacitor_failure,capacitor_replacement,31,616,4371,31,medium
+2023-03-13,2023-03-13 22:00:00,INV_012,overheating,fan_replacement,22,765,2266,22,medium
+2023-03-27,2023-03-27 17:00:00,INV_016,dc_connector_corrosion,connector_replacement,17,654,1632,17,medium
+2023-03-16,2023-03-16 11:00:00,INV_017,capacitor_failure,capacitor_replacement,11,655,1034,11,low
